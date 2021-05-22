@@ -77,7 +77,7 @@ No need a database installation make your website very fast, and of course with 
 
 Need demo ?? 
 
-[demo 1 →](https://youtu.be/ayCdaW3kFdU)
+[demo 1 →](https://bangresto.sourceforge.io/cleanresto/)
 
 [demo 2 →](https://bangresto.sourceforge.io/)
 
