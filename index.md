@@ -1,37 +1,89 @@
-## Welcome to GitHub Pages
+# Clean resto website template themes 
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/cleanrestowebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### New Modern CMS Build a website without database.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A new generation get simpe cms axcora tech for develope website project powerfull !!
 
-### Markdown
+No need a database for installation , make your website very fast and SEO friendly.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Modern design with new boostrap 5 + fontawesome
 
-```markdown
-Syntax highlighted code block
+![free restaurant website themes template download](https://a.fsdn.com/con/app/proj/bangresto/screenshots/Screenshot_2021-05-23%20Welcome.png/max/max/1)
 
-# Header 1
-## Header 2
-### Header 3
+Home page area
 
-- Bulleted
-- List
+![free restaurant website themes template download](https://a.fsdn.com/con/app/proj/bangresto/screenshots/Screenshot_2021-05-23%20Food.png/max/max/1)
 
-1. Numbered
-2. List
+Food Page menu
 
-**Bold** and _Italic_ and `Code` text
+![free restaurant website themes template download](https://a.fsdn.com/con/app/proj/bangresto/screenshots/Screenshot_2021-05-23%20Drink.png/max/max/1)
 
-[Link](url) and ![Image](src)
-```
+Drink Page menu
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![free restaurant website themes template download](https://a.fsdn.com/con/app/proj/bangresto/screenshots/Screenshot_2021-05-23%20Welcome.png/max/max/1)
 
-### Jekyll Themes
+Burger Page menu
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/cleanrestowebsite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![free restaurant website themes template download](https://a.fsdn.com/con/app/proj/bangresto/screenshots/Screenshot_2021-05-23%20Coffee.png/max/max/1)
 
-### Support or Contact
+Coffee page menu
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![free restaurant website themes template download](https://a.fsdn.com/con/app/proj/bangresto/screenshots/Screenshot_2021-05-23%20Event.png/max/max/1)
+
+event page menu
+
+
+-----
+
+Login Area for backend
+
+![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%285%29.png/max/max/1)
+
+Page and article post menu.
+
+![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%284%29.png/max/max/1)
+
+Create article post very simple and easy
+
+![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%282%29.png/max/max/1)
+
+Back end setting
+
+ -----------------------------------------------------------------
+### how to install
+
+ [Read Documentation →](https://axcora.com/getaxcoracms/index.php?id=get-started)
+
+By default use username : axcora and password : axcoracms
+
+Features :
+
+Frontend
++ Home page menu
++ Food page menu
++ Burger page menu
++ Coffee page menu
++ Drink Page menu
++ Event page menu
++ Contact Page information
+
+Backend
++ Page for create new post article content you can edit and delete too.
++ File menu for upload media manager
++ Setting for change password and others.
++ SEO : automaticly generate meta title , description , facebook, twitter.
+
+No need a database installation make your website very fast, and of course with SEO friendly include, simple and easy to use.
+
+Need demo ?? 
+
+[demo 1 →](https://bangresto.sourceforge.io/cleanresto/)
+
+[demo 2 →](https://bangresto.sourceforge.io/)
+
+More themes :
+https://axcora.com/getaxcoracms
+
+present by https://axcora.com
+
+Hapy codding !!
