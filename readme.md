@@ -8,29 +8,16 @@ No need a database for installation , make your website very fast and SEO friend
 
 Modern design with new boostrap 5 + fontawesome
 
-![free restaurant website themes template download](https://a.fsdn.com/con/app/proj/bangresto/screenshots/Screenshot_2021-05-23%20Welcome.png/max/max/1)
+[demo play →](https://www.youtube.com/watch?v=N5h-AA-a4bQ&t=126s)
 
-Home page area
+![free restaurant website themes template download](https://1.bp.blogspot.com/-w6-JvnzBT9c/YPFqp_qyXbI/AAAAAAAAP4w/-U-7WTGpb-0_5RRTTmcxfWSL9kd9KqkFwCLcBGAsYHQ/s1349/resto%2Bwebsite%2Bfree%2Bdownload.png)
 
-![free restaurant website themes template download](https://a.fsdn.com/con/app/proj/bangresto/screenshots/Screenshot_2021-05-23%20Food.png/max/max/1)
-
-Food Page menu
-
-![free restaurant website themes template download](https://a.fsdn.com/con/app/proj/bangresto/screenshots/Screenshot_2021-05-23%20Drink.png/max/max/1)
-
-Drink Page menu
-
-![free restaurant website themes template download](https://a.fsdn.com/con/app/proj/bangresto/screenshots/Screenshot_2021-05-23%20Welcome.png/max/max/1)
-
-Burger Page menu
-
-![free restaurant website themes template download](https://a.fsdn.com/con/app/proj/bangresto/screenshots/Screenshot_2021-05-23%20Coffee.png/max/max/1)
-
-Coffee page menu
-
-![free restaurant website themes template download](https://a.fsdn.com/con/app/proj/bangresto/screenshots/Screenshot_2021-05-23%20Event.png/max/max/1)
-
-event page menu
++ Home page area
++ Food Page menu
++ Drink Page menu
++ Burger Page menu
++ Coffee page menu
++ event page menu
 
 
 -----
@@ -77,9 +64,7 @@ No need a database installation make your website very fast, and of course with 
 
 Need demo ?? 
 
-[demo 1 →](https://bangresto.sourceforge.io/cleanresto/)
-
-[demo 2 →](https://bangresto.sourceforge.io/)
+[demo play →](https://www.youtube.com/watch?v=N5h-AA-a4bQ&t=126s)
 
 More themes :
 https://axcora.com/getaxcoracms
