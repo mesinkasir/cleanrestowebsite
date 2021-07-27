@@ -21,27 +21,45 @@ Modern design with new boostrap 5 + fontawesome
 
 
 -----
+![new cms modern](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%285%29.png)
 
 Login Area for backend
 
-![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%285%29.png/max/max/1)
+![new modern website cms](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%284%29.png)
 
 Page and article post menu.
 
-![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%284%29.png/max/max/1)
+![new modern website cms](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%283%29.png)
 
 Create article post very simple and easy
 
-![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%282%29.png/max/max/1)
+![new modern website cms](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%282%29.png)
+
+File manager system
+
+![new modern website cms](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%281%29.png)
 
 Back end setting
+
+![pos apps free download](https://1.bp.blogspot.com/-oAJGBpB86I4/YBDnCo2tn7I/AAAAAAAAMo4/2uUQrJaYJcwYk1O9gMmIP5sL0kh6tDV9gCLcBGAsYHQ/s1372/Screenshot_2021-01-27%2BMobile%2BWeb%2BApps%2B%25C2%25BB%2BSupport.png)
+
+New Update POS apps plugin for modern website + POS application web app
 
  -----------------------------------------------------------------
 ### how to install
 
- [Read Documentation →](https://axcora.com/getaxcoracms/index.php?id=get-started)
+CLOUDS / SHARED HOSTING
+
+Just download this file and upload on your shared or clouds host , upload on public_html fle if you using this cms for develope home page website, or you can upload it on sub directori .
+After upload progress success. Your website is online now . for first need to configure site with accsess on backend - visit yourwebsite/admin - login with user : axcora / pass : axcoracms - then visit on setting change URL with yoursite, and save.
+
+LOCALHOST
+
+Need third party XAMPP WAMPP LAMPP server, download this project and upload on your xampp/htdocs folder,  for first need to configure site with accsess on backend - visit localhost/projectweb/admin - login with user : axcora / pass : axcoracms - then visit on setting change URL with yoursite example localhost/projectweb/admin, and save.
 
 By default use username : axcora and password : axcoracms
+
+--------------------------
 
 Features :
 
