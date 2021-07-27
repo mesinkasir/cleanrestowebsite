@@ -8,53 +8,58 @@ No need a database for installation , make your website very fast and SEO friend
 
 Modern design with new boostrap 5 + fontawesome
 
-![free restaurant website themes template download](https://a.fsdn.com/con/app/proj/bangresto/screenshots/Screenshot_2021-05-23%20Welcome.png/max/max/1)
+[demo play →](https://www.youtube.com/watch?v=N5h-AA-a4bQ&t=126s)
 
-Home page area
+![free restaurant website themes template download](https://1.bp.blogspot.com/-w6-JvnzBT9c/YPFqp_qyXbI/AAAAAAAAP4w/-U-7WTGpb-0_5RRTTmcxfWSL9kd9KqkFwCLcBGAsYHQ/s1349/resto%2Bwebsite%2Bfree%2Bdownload.png)
 
-![free restaurant website themes template download](https://a.fsdn.com/con/app/proj/bangresto/screenshots/Screenshot_2021-05-23%20Food.png/max/max/1)
-
-Food Page menu
-
-![free restaurant website themes template download](https://a.fsdn.com/con/app/proj/bangresto/screenshots/Screenshot_2021-05-23%20Drink.png/max/max/1)
-
-Drink Page menu
-
-![free restaurant website themes template download](https://a.fsdn.com/con/app/proj/bangresto/screenshots/Screenshot_2021-05-23%20Welcome.png/max/max/1)
-
-Burger Page menu
-
-![free restaurant website themes template download](https://a.fsdn.com/con/app/proj/bangresto/screenshots/Screenshot_2021-05-23%20Coffee.png/max/max/1)
-
-Coffee page menu
-
-![free restaurant website themes template download](https://a.fsdn.com/con/app/proj/bangresto/screenshots/Screenshot_2021-05-23%20Event.png/max/max/1)
-
-event page menu
++ Home page area
++ Food Page menu
++ Drink Page menu
++ Burger Page menu
++ Coffee page menu
++ event page menu
 
 
 -----
+![new cms modern](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%285%29.png)
 
 Login Area for backend
 
-![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%285%29.png/max/max/1)
+![new modern website cms](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%284%29.png)
 
 Page and article post menu.
 
-![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%284%29.png/max/max/1)
+![new modern website cms](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%283%29.png)
 
 Create article post very simple and easy
 
-![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%282%29.png/max/max/1)
+![new modern website cms](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%282%29.png)
+
+File manager system
+
+![new modern website cms](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%281%29.png)
 
 Back end setting
+
+![pos apps free download](https://1.bp.blogspot.com/-oAJGBpB86I4/YBDnCo2tn7I/AAAAAAAAMo4/2uUQrJaYJcwYk1O9gMmIP5sL0kh6tDV9gCLcBGAsYHQ/s1372/Screenshot_2021-01-27%2BMobile%2BWeb%2BApps%2B%25C2%25BB%2BSupport.png)
+
+New Update POS apps plugin for modern website + POS application web app
 
  -----------------------------------------------------------------
 ### how to install
 
- [Read Documentation →](https://axcora.com/getaxcoracms/index.php?id=get-started)
+CLOUDS / SHARED HOSTING
+
+Just download this file and upload on your shared or clouds host , upload on public_html fle if you using this cms for develope home page website, or you can upload it on sub directori .
+After upload progress success. Your website is online now . for first need to configure site with accsess on backend - visit yourwebsite/admin - login with user : axcora / pass : axcoracms - then visit on setting change URL with yoursite, and save.
+
+LOCALHOST
+
+Need third party XAMPP WAMPP LAMPP server, download this project and upload on your xampp/htdocs folder,  for first need to configure site with accsess on backend - visit localhost/projectweb/admin - login with user : axcora / pass : axcoracms - then visit on setting change URL with yoursite example localhost/projectweb/admin, and save.
 
 By default use username : axcora and password : axcoracms
+
+--------------------------
 
 Features :
 
@@ -77,9 +82,7 @@ No need a database installation make your website very fast, and of course with 
 
 Need demo ?? 
 
-[demo 1 →](https://bangresto.sourceforge.io/cleanresto/)
-
-[demo 2 →](https://bangresto.sourceforge.io/)
+[demo play →](https://www.youtube.com/watch?v=N5h-AA-a4bQ&t=126s)
 
 More themes :
 https://axcora.com/getaxcoracms
